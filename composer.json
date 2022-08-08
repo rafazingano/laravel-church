@@ -1,6 +1,6 @@
 {
     "name": "confrariaweb/laravel-church",
-    "version": "dev-master",
+    "version": "1.0.0",
     "description": "Pacote para igrejas em laravel",
     "keywords": [
         "church",
@@ -16,18 +16,18 @@
         }
     ],
     "require": {
-        "confrariaweb/laravel-account": "dev-master",
-        "confrariaweb/laravel-acl": "dev-master",
-        "confrariaweb/laravel-crm": "dev-master",
-        "confrariaweb/laravel-financial": "dev-master",
-        "confrariaweb/laravel-post": "dev-master",
-        "confrariaweb/laravel-site": "dev-master",
-        "confrariaweb/laravel-template": "dev-master",
-        "confrariaweb/laravel-template-colugo": "dev-master",
-        "confrariaweb/laravel-template-milo": "dev-master",
-        "confrariaweb/laravel-template-dashboard-argon": "dev-master",
-        "confrariaweb/laravel-user": "dev-master",
-        "confrariaweb/laravel-vendor": "dev-master"
+        "confrariaweb/laravel-account": "1.0.0",
+        "confrariaweb/laravel-acl": "1.0.0",
+        "confrariaweb/laravel-crm": "1.0.0",
+        "confrariaweb/laravel-financial": "1.0.0",
+        "confrariaweb/laravel-post": "1.0.0",
+        "confrariaweb/laravel-site": "1.0.0",
+        "confrariaweb/laravel-template": "1.0.0",
+        "confrariaweb/laravel-template-colugo": "1.0.0",
+        "confrariaweb/laravel-template-milo": "1.0.0",
+        "confrariaweb/laravel-template-dashboard-argon": "1.0.0",
+        "confrariaweb/laravel-user": "1.0.0",
+        "confrariaweb/laravel-vendor": "1.0.0"
     },
     "autoload": {
         "psr-4": {
