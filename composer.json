@@ -26,8 +26,7 @@
         "confrariaweb/laravel-template-colugo": "1.0.0",
         "confrariaweb/laravel-template-milo": "1.0.0",
         "confrariaweb/laravel-template-dashboard-argon": "1.0.0",
-        "confrariaweb/laravel-user": "1.0.0",
-        "confrariaweb/laravel-vendor": "1.0.0"
+        "confrariaweb/laravel-user": "1.0.0"
     },
     "autoload": {
         "psr-4": {

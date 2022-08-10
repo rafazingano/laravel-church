@@ -16,7 +16,6 @@ The "confrariaweb/laravel-church package" uses the following packages in paralle
 - confrariaweb/laravel-template
 - confrariaweb/laravel-template-dashboard-argon
 - confrariaweb/laravel-user
-- confrariaweb/laravel-vendor
 - 
 ## Configurations
 Run the command to import the necessary configuration files:
